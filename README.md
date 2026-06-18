@@ -16,5 +16,5 @@ I am aiming to build my skills and have experiences that will help me to grow as
 [Provide skills and associated project]
 |Skill                             | Associated Project     |
 |----------------------------------|------------------------|
-|SIEM PCI/DSS Wazuh Project        | <a hrref="https://docs.google.com/presentation/d/1w2xua-jreqOidLW7XI1sGxuT7vapF1HHoxl8kAYBlnE/edit?usp=sharing">Project Presentaion</a>|
+|SIEM PCI/DSS Wazuh Project        | <a href="https://docs.google.com/presentation/d/1w2xua-jreqOidLW7XI1sGxuT7vapF1HHoxl8kAYBlnE/edit?usp=sharing">Project Presentaion</a>|
 -->
