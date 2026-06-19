@@ -10,9 +10,8 @@ I am a recent graduate with a profound interest in Cybersecurity, Digital Forens
 My journey in Computer Science has led me to develop a passion for cybersecurity, and I am now eager to grow through my current role as a Service Deployment Analyst at Thrive.
 I am aiming to build my skills and have experiences that will help me to grow as a future professional in the field of Cybersecurity. 
 
-## Skills 
-[Provide skills and associated project]
-|Skill                             | Associated Project     |
+## Projects
+|Title                             | Associated Project     |
 |----------------------------------|------------------------|
 |SIEM PCI/DSS Wazuh Project        | <a href="https://docs.google.com/presentation/d/1w2xua-jreqOidLW7XI1sGxuT7vapF1HHoxl8kAYBlnE/edit?usp=sharing">Project Presentaion</a>|
 |Voice Deepfakes What is real and What is a deepfake | <a href="https://docs.google.com/presentation/d/1XRUDN_R13_-tgcYE4zMvO0VRaNNLo3eiyOMEib2wJGA/edit?usp=sharing">Capstone Project Presentation</a>|
