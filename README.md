@@ -20,6 +20,6 @@ I am aiming to build my skills and have experiences that will help me to grow as
 |Security Policy for Kessel and Kruger LLP    | <a href="https://docs.google.com/document/d/128EftWZXn3RFpHe_U4vSmaPlDxozl2Qv/edit?usp=sharing&ouid=108943138912036290422&rtpof=true&sd=true">Security Policy</a>|
 |OODA Loop Plan Kessel and Kruger LLP  | <a href="https://docs.google.com/document/d/1kb81d1ngnbyKUWvEdCAVpKXIP7dxNnMj/edit?usp=sharing&ouid=108943138912036290422&rtpof=true&sd=true">OODA Loop Plan</a>|
 |Risk Management Plan Kessel and Kruger LLP | <a href="https://docs.google.com/presentation/d/1GLGWvm_VdYK2D87FPT75XvSXwBbCnwfP/edit?usp=sharing&ouid=108943138912036290422&rtpof=true&sd=true">Risk Management Plan</a>|
+|Security and Awareness Training for Kessel and Kruger LLP | <a href="https://docs.google.com/document/d/1o3MzXNNUh1vNrgpsRuSKoSxCOLY4CDij/edit?usp=sharing&ouid=108943138912036290422&rtpof=true&sd=true">Security and Awareness Training</a>|
 |Business Continuity Plan | <a href="https://docs.google.com/presentation/d/1t0QopCzQ2teX7hUb0AYnUfMTHrJWZ6X0/edit?slide=id.p1#slide=id.p1">Business Continuity Plan</a>|
-
 -->
