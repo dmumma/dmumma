@@ -21,4 +21,6 @@ I am aiming to build my skills and have experiences that will help me to grow as
 |Risk Management Plan Kessel and Kruger LLP | <a href="https://docs.google.com/presentation/d/1GLGWvm_VdYK2D87FPT75XvSXwBbCnwfP/edit?usp=sharing&ouid=108943138912036290422&rtpof=true&sd=true">Risk Management Plan</a>|
 |Security and Awareness Training for Kessel and Kruger LLP | <a href="https://docs.google.com/document/d/1o3MzXNNUh1vNrgpsRuSKoSxCOLY4CDij/edit?usp=sharing&ouid=108943138912036290422&rtpof=true&sd=true">Security and Awareness Training</a>|
 |Business Continuity Plan | <a href="https://docs.google.com/presentation/d/1t0QopCzQ2teX7hUb0AYnUfMTHrJWZ6X0/edit?slide=id.p1#slide=id.p1">Business Continuity Plan</a>|
+
+## Skills
 -->
