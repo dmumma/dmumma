@@ -14,7 +14,7 @@ I am aiming to build my skills and have experiences that will help me to grow as
 [Provide skills and associated project]
 |Skill                             | Associated Project     |
 |----------------------------------|------------------------|
-|SIEM PCI/DSS Wazuh Project        | <a href="https://docs.google.com/presentation/d/1w2xua-      jreqOidLW7XI1sGxuT7vapF1HHoxl8kAYBlnE/edit?usp=sharing">Project Presentaion</a>|
+|SIEM PCI/DSS Wazuh Project        | <a href="https://docs.google.com/presentation/d/1w2xua-jreqOidLW7XI1sGxuT7vapF1HHoxl8kAYBlnE/edit?usp=sharing">Project Presentaion</a>|
 |Voice Deepfakes What is real and What is a deepfake | <a href="https://docs.google.com/presentation/d/1XRUDN_R13_-tgcYE4zMvO0VRaNNLo3eiyOMEib2wJGA/edit?usp=sharing">Capstone Project Presentation</a>|
 |What is Real and What is a Deepfake Paper                   | <a href="https://docs.google.com/document/d/1v2TwLSzrUZAj3Gv5Aq0MCVHEMGBdMpQE/edit?usp=sharing&ouid=108943138912036290422&rtpof=true&sd=true"> Cybercap Paper</a>|
 |Security Policy for Kessel and Kruger LLP    | <a href="https://docs.google.com/document/d/128EftWZXn3RFpHe_U4vSmaPlDxozl2Qv/edit?usp=sharing&ouid=108943138912036290422&rtpof=true&sd=true">Security Policy</a>|
