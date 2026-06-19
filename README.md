@@ -1,5 +1,5 @@
 # Hello, I'm Dan
-<a href="www.linkedin.com/in/daniel-mumma](https://www.linkedin.com/in/daniel-mumma)](https://www.linkedin.com/in/daniel-mumma/)">LinkedIn</a>
+<a href="https://www.linkedin.com/in/daniel-mumma/">LinkedIn</a>
 
 
 I am a recent graduate with a profound interest in Cybersecurity, Digital Forensics, and Networking. I am dedicated to learning more as I begin my journey. 
