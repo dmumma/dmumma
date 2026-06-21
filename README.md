@@ -22,5 +22,10 @@ I am aiming to build my skills and have experiences that will help me to grow as
 |Security and Awareness Training for Kessel and Kruger LLP | <a href="https://docs.google.com/document/d/1o3MzXNNUh1vNrgpsRuSKoSxCOLY4CDij/edit?usp=sharing&ouid=108943138912036290422&rtpof=true&sd=true">Security and Awareness Training</a>|
 |Business Continuity Plan | <a href="https://docs.google.com/presentation/d/1t0QopCzQ2teX7hUb0AYnUfMTHrJWZ6X0/edit?slide=id.p1#slide=id.p1">Business Continuity Plan</a>|
 
-## Skills
+## Certs
+|Certification                      |Cert Confirmation
+|-----------------------------------|-----------------|
+|CompTIA ITF+                       | <a href="https://www.credly.com/badges/e71d883c-0c55-4166-b071-09fe31d8dad3/email">CompTIA ITF+ Credly</a>|
+|AWS Cloud Foundations Training     | <a href="https://www.credly.com/badges/83034b1c-c060-426a-a00d-15dc3cb882e6/linked_in_profile">AWS Cloud Foundations Credly</a>|
+
 -->
